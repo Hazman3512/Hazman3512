@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+##I am Hafiz, a student at NUS-ISS, taking a graduate diploma in Systems Analysis. Feel free to reach out if you want to collaborate :muscle:
+
+
 
 
 <p>
