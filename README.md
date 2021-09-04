@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
@@ -6,7 +6,7 @@
 <a href="https://github.com/Hazman3512"><img src="https://github-readme-stats.vercel.app/api?username=Hazman3512"></a>
 </p>
 
-## Feel free to look at some of  my projects down below :arrow_down_small:
+### Feel free to look at some of  my projects down below :arrow_down_small:
 
 
 
