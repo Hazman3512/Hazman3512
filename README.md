@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-###### Feel free to look at my repositories down below
+
 
 <p>
 <a href="https://github.com/Hazman3512"><img src="https://github-readme-stats.vercel.app/api?username=Hazman3512"></a>
- </p>
+</p>
+
+## Feel free to look at some of  my projects down below :arrow_down_small:
 
 
 
