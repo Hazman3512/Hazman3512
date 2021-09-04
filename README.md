@@ -2,7 +2,7 @@
 
 
 
-###### I am Hafiz, a student at NUS-ISS, taking a graduate diploma in Systems Analysis. Do reach out to me if you want to collaborate :raised_hands:
+#### I am Hafiz, a student at NUS-ISS, taking a graduate diploma in Systems Analysis. Do reach out to me if you want to collaborate :raised_hands:
 
 
 
@@ -11,7 +11,7 @@
 <a href="https://github.com/Hazman3512"><img src="https://github-readme-stats.vercel.app/api?username=Hazman3512"></a>
 </p>
 
-###### Feel free to look at some of  my projects down below :arrow_down_small:
+#### Feel free to look at some of  my projects down below :arrow_down_small:
 
 
 
