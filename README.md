@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+###### Feel free to look at my repositories down below
+
+<p>
+<a href="https://github.com/Hazman3512"><img src="https://github-readme-stats.vercel.app/api?username=Hazman3512"></a>
+ </p>
+
+
+
 <!--
 **Hazman3512/Hazman3512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
