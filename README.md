@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-### I am Hafiz, a student at NUS-ISS, taking a graduate diploma in Systems Analysis. Feel free to reach out if you want to collaborate :muscle:
 
+
+* I am Hafiz, a student at NUS-ISS, taking a graduate diploma in Systems Analysis. Do reach out to me if you want to collaborate :raised_hands:
+* 
+* 
 
 
 
